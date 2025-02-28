@@ -7,5 +7,7 @@ Use this repo to write to the IRS to obtain your tax refund for the dividends th
 Useful links
 
 https://github.com/hugopow/vmware-irs-tax-refund/blob/main/letter-to-irs-template.md
+
 https://www.irs.gov/pub/irs-pdf/i1040nr.pdf
+
 https://investors.broadcom.com/financial-information/tax-information
