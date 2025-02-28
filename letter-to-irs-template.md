@@ -19,6 +19,7 @@ I am claiming an exemption from withholding on a distribution from a U.S. corpor
 
 On Nov 22 2023 Broadcom completed the acquisition of VMware. All vested VMW stock that I held in E*TRADE Morgan Stanley was converted to Broadcom stock and cash (52.1% stock, 47.9% cash). I had already paid withholding tax according to the tax treaty between < Your country > and USA on all of the vested stock prior at vesting time, however the broker classified the converted stock to cash (47.9%) as dividends, withholding an additional $Z for tax purposes. I held X VMW stock at the time of the merger, of which W stock units (47.9%) were converted to cash equating to $Y. This transaction was classified incorrectly as a dividend, hence 15% withholding was applied to $Y, equating to $Z. I ask for a refund of $Z to My Bank:
 
+
 < Your Name >
 
 Account number: 
@@ -40,6 +41,7 @@ I attach forms:
 304 ​​- Certification of Treatment of Merger Consideration
 
 E*TRADE Statement
+
 
 
 Yours faithfully,
