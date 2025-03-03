@@ -16,6 +16,9 @@ https://github.com/hugopow/vmware-irs-tax-refund/blob/main/letter-to-irs-templat
 https://www.irs.gov/pub/irs-prior/f1040nr--2023.pdf
 https://www.irs.gov/pub/irs-pdf/i1040nr.pdf
 
+## 1042-S Obtain this from your E*TRADE account for 2023 tax year
+![image](https://github.com/user-attachments/assets/bad239f5-3570-414a-9c2d-9523f3e78975)
+
 ## IRS Form 8937
 https://investors.broadcom.com/financial-information/tax-information
 
