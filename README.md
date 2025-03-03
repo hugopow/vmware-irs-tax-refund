@@ -18,3 +18,6 @@ https://investors.broadcom.com/financial-information/tax-information
 
 ## Section 304 Certification of Treatment of Merger Consideration
 https://www.bmoinvestorline.com/General_Info/Section304_Cert_ofTreatment.pdf
+
+## Google sheets to work out your S304
+https://docs.google.com/spreadsheets/d/1ORwHVNKA8SsNo5ztatTnS1_ltOR9socPmqD9gXXgVNQ/edit?usp=sharing
