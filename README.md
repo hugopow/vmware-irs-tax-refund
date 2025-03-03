@@ -4,12 +4,15 @@ This repo is for non-US tax residents impacted by E*TRADE's mishandling of the c
 
 Use this repo to write to the IRS to obtain your tax refund for the dividends that were withheld.
 
+(You might need an ITIN number from the IRS, I already had one from being US resident previously).
+https://www.irs.gov/tin/itin/how-to-apply-for-an-itin
+
 # Useful links
 
 ## Letter template to use to send to the IRS to claim the tax refund
 https://github.com/hugopow/vmware-irs-tax-refund/blob/main/letter-to-irs-template.md
 
-## U.S. Nonresident Alien Income Tax Return
+## U.S. Non-resident Alien Income Tax Return
 https://www.irs.gov/pub/irs-prior/f1040nr--2023.pdf
 https://www.irs.gov/pub/irs-pdf/i1040nr.pdf
 
